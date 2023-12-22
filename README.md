@@ -15,11 +15,13 @@ This prototype offers a seamless and interactive experience for motorbike riders
 
 As the prototype is developed using Axure RP, it cannot be directly previewed within this repository. To interact with the prototype file, follow these steps:
 
+### Prerequisites
+- Install Axure RP, a prototyping tool, on your local machine. You can download Axure RP from [here](https://www.axure.com/). (Which you can get free for 30 days as trial)
+
 ### Steps to Access the Prototype
 1. Navigate to the repository's main page.
-2. Click on the file containing the Axure RP prototype (usually with an `.rp` extension).
+2. Click on the file name prototype containing `.rp` extension.
 3. On the file's page, click the "Download" button or "View Raw" option to download the prototype file to your local machine.
-
 4. Once downloaded, open the downloaded file using Axure RP software installed on your computer.
   
 Please note that you need Axure RP installed on your machine to view and interact with the prototype file.
