@@ -1,6 +1,7 @@
 # Interactive Motorcycle Interface Prototype
 
 Welcome to the Interactive Motorcycle Interface Prototype repository! This project aims to provide motorbike riders with an innovative and user-friendly interface, integrating GPS navigation, music control, and an emergency SOS feature.
+![image](https://github.com/nntrr/Motorcycle-UI-prototype/assets/98042735/fa835fa1-0661-40d4-b842-c1f519374eb2)
 
 ## Features
 
